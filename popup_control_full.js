@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://tudonghoavn.com/' target='_blank'><img src='http://www.tudonghoavn.com/images/stories/pepperl1.jpg' width='400px'/>cảm biến</a>. Diệp Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://tudonghoavn.com/' target='_blank'><img src='http://www.tudonghoavn.com/images/stories/pepperl1.jpg' width='500px'/>cảm biến</a>. Diệp Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
